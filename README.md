@@ -1,6 +1,6 @@
-# Spring Boot Hello World
+# Spring Boot GoAppFlyer
 
-A spring boot enabled hello world application
+A spring boot enabled GoAppFlyer application
 
 [![Build Status](https://travis-ci.org/gazgeek/springboot-helloworld.svg?branch=master)](https://travis-ci.org/gazgeek/springboot-helloworld)
 
